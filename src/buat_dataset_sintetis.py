@@ -3,13 +3,13 @@ import csv
 import cv2
 import numpy as np
 
-SEED = 1061
+SEED = 1089
 N_PER_KELAS = 20
 H, W = 480, 640
 
 KELAS = ["sehat", "ringan", "berat"]
 KONDISI = ["normal", "gelap", "terang", "kontras_rendah", "bayangan"]
-OUT =  os.path.join("data", "sintetis") 
+OUT =  os.path.join("data", "sintetis")
 
 rng = np.random.default_rng(SEED)
 
