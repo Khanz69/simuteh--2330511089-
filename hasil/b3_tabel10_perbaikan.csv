@@ -1,0 +1,10 @@
+Metode,KB,Simpangan baku
+asli,2.19,55.9
+negatif,2.19,55.9
+cerah+50,2.19,54.4
+kontras,2.19,79.2
+regang,2.28,80.6
+gamma0.5,1.84,40.7
+gamma1.8,2.9,59.4
+ekualisasi,1.57,73.4
+CLAHE,2.25,47.0

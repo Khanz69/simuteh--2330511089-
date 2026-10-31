@@ -1,0 +1,9 @@
+Kondisi,Kelas,Citra,Metode,KB awal,KB sesudah,Perubahan KB
+gelap,berat,teh_042.png,gamma0.5,5.46,4.17,-1.29
+gelap,ringan,teh_022.png,gamma0.5,1.6,1.26,-0.33
+terang,berat,teh_043.png,gamma1.8,3.16,3.44,0.28
+terang,ringan,teh_023.png,gamma1.8,2.63,2.88,0.25
+kontras rendah,berat,teh_044.png,regang,1.41,1.49,0.08
+kontras rendah,ringan,teh_024.png,regang,1.67,1.79,0.12
+bayangan,berat,teh_045.png,CLAHE,2.19,2.25,0.06
+bayangan,ringan,teh_025.png,CLAHE,0.11,0.58,0.47
